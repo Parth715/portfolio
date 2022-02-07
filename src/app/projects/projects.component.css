@@ -13,12 +13,11 @@
 img{
     margin-left: 11%;
     margin-top: 4%;
+    margin-bottom: 5%;
     box-shadow: 5px 10px 10px black;
     height: 200px;
     width: 80%;
 }
-.bg-image{
-    background-image: url("../../assets/purple-background.jpg");
-    background-repeat:repeat;
-    background-size: cover;
+div{
+    margin-bottom: 3%;;
 }
