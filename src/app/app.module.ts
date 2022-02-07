@@ -7,6 +7,10 @@ import { GifComponent } from './gif/gif.component';
 import { MenuComponent } from './menu/menu.component';
 import { MenuItemsComponent } from './menuitems/menuitems.component';
 import { ProjectsComponent } from './projects/projects.component';
+import { AboutMeComponent } from './about-me/about-me.component';
+import { EducationComponent } from './education/education.component';
+import { WorkExperienceComponent } from './work-experience/work-experience.component';
+import { InterestsComponent } from './interests/interests.component';
 
 @NgModule({
   declarations: [
@@ -14,7 +18,11 @@ import { ProjectsComponent } from './projects/projects.component';
     GifComponent,
     MenuComponent,
     MenuItemsComponent,
-    ProjectsComponent
+    ProjectsComponent,
+    AboutMeComponent,
+    EducationComponent,
+    WorkExperienceComponent,
+    InterestsComponent
   ],
   imports: [
     BrowserModule,
