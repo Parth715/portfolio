@@ -1,0 +1,19 @@
+.floatL{
+    float: left;
+    width: 30%;
+    margin-top: 2%;
+}
+.floatR{
+    float: left;
+    width: 45%;
+    height: 250px;
+    margin-top: 4%;
+    margin-left: 5%;
+}
+img{
+    margin-left: 11%;
+    margin-top: 4%;
+    box-shadow: 5px 10px 10px black;
+    height: 200px;
+    width: 400px;
+}
