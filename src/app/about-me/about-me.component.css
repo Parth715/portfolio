@@ -1,0 +1,39 @@
+img{
+    margin-left: 11%;
+    margin-top: 4%;
+    margin-bottom: 5%;
+    box-shadow: 5px 10px 10px black;
+    height: 400px;
+    width: 80%;
+}
+.floatL{
+    float: left;
+    width: 30%;
+    margin-top: 2%;
+}
+.floatR{
+    float: left;
+    width: 45%;
+    height: 250px;
+    margin-top: 4%;
+    margin-left: 5%;
+}
+span{
+    text-align: center;
+}
+.Git{
+    height: 10%;
+    width: 10%;
+    display:inline-block;
+}
+.Skill{
+    height: 15%;
+    width: 10%;
+    display:inline-block;
+}
+.EF{
+    height: 35%;
+    width: 20%;
+    display:inline-block;
+}
+

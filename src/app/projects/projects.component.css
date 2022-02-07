@@ -15,5 +15,10 @@ img{
     margin-top: 4%;
     box-shadow: 5px 10px 10px black;
     height: 200px;
-    width: 400px;
+    width: 80%;
+}
+.bg-image{
+    background-image: url("../../assets/purple-background.jpg");
+    background-repeat:repeat;
+    background-size: cover;
 }
