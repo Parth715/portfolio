@@ -1,9 +1,8 @@
-img {
-    width: 1550px;
-    height: 450px;
-    margin-left: -2%;
+.bg-image{
+    background-image:url("../../assets/Sphere.gif");
+    background-repeat:repeat;
 }
 
 body{
-    margin-top: -50px;
+    margin-top: 0px;
 }
